@@ -10,6 +10,17 @@
 - 🌱 I’m currently learning Scraping with Python
 - 💞️ I’m looking to collaborate on web designer
 - 📫 
+Eos
+Grand-Ma 2
+Art-Net
+Java
+PHP
+My-SQL
+Html & Css
+Blender
+Processing
+Arduino
+Raspberry-Pi
 
 <!---
 borchar/borchar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
